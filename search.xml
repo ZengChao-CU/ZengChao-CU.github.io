@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Hello world</title>
+      <link href="/2022/08/25/Hello-world/"/>
+      <url>/2022/08/25/Hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>hello world</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文章 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于51单片机的智能循迹小车</title>
       <link href="/2022/08/25/%E5%9F%BA%E4%BA%8E51%E5%8D%95%E7%89%87%E6%9C%BA%E7%9A%84%E6%99%BA%E8%83%BD%E5%BE%AA%E8%BF%B9%E5%B0%8F%E8%BD%A6/"/>
       <url>/2022/08/25/%E5%9F%BA%E4%BA%8E51%E5%8D%95%E7%89%87%E6%9C%BA%E7%9A%84%E6%99%BA%E8%83%BD%E5%BE%AA%E8%BF%B9%E5%B0%8F%E8%BD%A6/</url>
