@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.chaoblog.top/2022/08/27/MiniGUI-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8FHelloWorld/</loc>
+    
+    <lastmod>2022-08-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.chaoblog.top/2022/08/27/python%E7%BB%98%E5%9B%BE%E4%B9%8Bturtle%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2022-08-27</lastmod>
@@ -92,6 +101,13 @@
 
   
   <url>
+    <loc>http://www.chaoblog.top/tags/MiniGUI/</loc>
+    <lastmod>2022-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.chaoblog.top/tags/Python/</loc>
     <lastmod>2022-08-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -113,6 +129,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://www.chaoblog.top/categories/MiniGUI/</loc>
+    <lastmod>2022-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://www.chaoblog.top/categories/Python/</loc>
