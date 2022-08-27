@@ -11,9 +11,9 @@ http://www.chaoblog.top/categories/index.html
 http://www.chaoblog.top/
 http://www.chaoblog.top/tags/MiniGUI/
 http://www.chaoblog.top/tags/Python/
-http://www.chaoblog.top/tags/hexo/
 http://www.chaoblog.top/tags/%E5%8D%95%E7%89%87%E6%9C%BA/
+http://www.chaoblog.top/tags/hexo/
 http://www.chaoblog.top/categories/MiniGUI/
 http://www.chaoblog.top/categories/Python/
-http://www.chaoblog.top/categories/hexo/
 http://www.chaoblog.top/categories/%E5%8D%95%E7%89%87%E6%9C%BA/
+http://www.chaoblog.top/categories/hexo/
