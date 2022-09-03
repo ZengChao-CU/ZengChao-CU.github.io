@@ -124,14 +124,14 @@
   </url>
   
   <url>
-    <loc>http://www.chaoblog.top/tags/Python/</loc>
+    <loc>http://www.chaoblog.top/tags/hexo/</loc>
     <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.chaoblog.top/tags/hexo/</loc>
+    <loc>http://www.chaoblog.top/tags/Python/</loc>
     <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -161,14 +161,14 @@
   </url>
   
   <url>
-    <loc>http://www.chaoblog.top/categories/Python/</loc>
+    <loc>http://www.chaoblog.top/categories/hexo/</loc>
     <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.chaoblog.top/categories/hexo/</loc>
+    <loc>http://www.chaoblog.top/categories/Python/</loc>
     <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
