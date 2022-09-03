@@ -103,7 +103,7 @@
 
   <url>
     <loc>http://www.chaoblog.top/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,35 +111,35 @@
   
   <url>
     <loc>http://www.chaoblog.top/tags/Java/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.chaoblog.top/tags/MiniGUI/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.chaoblog.top/tags/Python/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.chaoblog.top/tags/hexo/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.chaoblog.top/tags/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -148,35 +148,35 @@
   
   <url>
     <loc>http://www.chaoblog.top/categories/Java/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.chaoblog.top/categories/MiniGUI/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.chaoblog.top/categories/Python/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.chaoblog.top/categories/hexo/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.chaoblog.top/categories/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
