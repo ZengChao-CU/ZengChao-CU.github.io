@@ -1,3 +1,4 @@
+http://www.chaoblog.top/2023/04/15/msp430%E7%82%B9%E7%81%AF%E5%AE%9E%E9%AA%8C/
 http://www.chaoblog.top/2022/08/28/JDK%E4%B8%8B%E8%BD%BD%E5%8F%8A%E5%AE%89%E8%A3%85/
 http://www.chaoblog.top/2022/08/25/%E5%9F%BA%E4%BA%8E51%E5%8D%95%E7%89%87%E6%9C%BA%E7%9A%84%E6%99%BA%E8%83%BD%E5%BE%AA%E8%BF%B9%E5%B0%8F%E8%BD%A6/
 http://www.chaoblog.top/2022/08/27/MiniGUI-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8FHelloWorld/
@@ -15,6 +16,7 @@ http://www.chaoblog.top/tags/Python/
 http://www.chaoblog.top/tags/MiniGUI/
 http://www.chaoblog.top/tags/hexo/
 http://www.chaoblog.top/tags/%E5%8D%95%E7%89%87%E6%9C%BA/
+http://www.chaoblog.top/tags/msp430f5529/
 http://www.chaoblog.top/categories/Java/
 http://www.chaoblog.top/categories/Python/
 http://www.chaoblog.top/categories/MiniGUI/
